@@ -1,0 +1,28 @@
+.footer{
+    background-color: #5c3e93;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 100px 0 25px 0;
+    gap: 25px;
+}
+
+.footer .five-stars{
+    color: #f1cb1b;
+}
+
+.footer .button{
+    padding: 15px 20px;
+}
+
+
+.footer .security-image{
+    width: 200px;
+}
+
+.footer .security-image img{
+    width: 100%;
+}

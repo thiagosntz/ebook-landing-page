@@ -1,0 +1,52 @@
+@media (max-width: 550px) {
+
+    .header .text-container h1{
+        font-size: 35px;
+        line-height: 120%;
+    }
+
+    .value-section{
+        margin-top: 20px;
+    }
+
+    .value-section .text-container{
+        width: 650px;
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+
+        text-align: justify;
+        margin-bottom: -35px;
+
+    }
+    
+    .value-section .text-container h3{
+        font-size: 30px;
+        margin: 0 auto;
+        margin-bottom: 20px;
+        text-align: start;
+    }
+
+    .value-section .value-container p{
+        text-align: justify;
+        padding: 0;
+    }
+
+    .appreciation-section{
+        margin-top: 20px;
+    }
+
+    .appreciation-section .text-container h3{
+        line-height: 100%;
+    }
+
+    .appreciation-section .appreciation-container .video-container iframe{
+        width: 330px;
+    }
+
+    .appreciation-section .appreciation-container .button{
+        font-size: 15px;
+    }
+
+
+}

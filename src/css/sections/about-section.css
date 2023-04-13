@@ -1,0 +1,47 @@
+.about-section{
+    max-width: 1600px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px;
+    gap: 50px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+.about-section .about-container{
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.about-section .about-container h3{
+    font-size: 40px;
+    line-height: 100%;
+    margin: 10px 0;
+}
+
+.about-section .last-chance-container{
+    width: 650px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.about-section .last-chance-container .image-container{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.about-section .last-chance-container .image-container img{
+    width: 100%;
+}
+
+.about-section .last-chance-container .button{
+    padding: 15px 20px;
+    width: 300px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
